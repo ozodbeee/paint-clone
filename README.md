@@ -1,1 +1,1 @@
-# Paint Clone with HTML CSS and JavaScript
+#                                                       Paint Clone with HTML CSS and JavaScript
